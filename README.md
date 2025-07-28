@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=300&section=header&text=WELCOME%20&fontSize=90&animation=twinkling&fontAlignY=38&desc=extremek2's%20GitHub%20Profile%20&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=300&section=header&text=WELCOME%20&fontSize=90&animation=twinkling&fontAlignY=38&desc=extremek2's%20GitHub%20Profile%20&descAlignY=51&descAlign=62&thema=tokyonight"/>
 </p>
 
 ## 👋 About Me
