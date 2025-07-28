@@ -1,7 +1,6 @@
-![header]
-<p align='center'>
+![header](<p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=extremek2's%20GitHub%20Profile%20&descAlignY=51&descAlign=62"/>
-</p>
+</p>)
 
 ## 👋 About Me
 - 백엔드 개발자를 꿈꾸는 송준영입니다
@@ -19,3 +18,6 @@
 
 ## 📫 How to reach me
 - Email: extremek@naver.com
+
+
+![extremek2's github stats](https://github-readme-stats.vercel.app/api?username=extremek2&show_icons=true)
