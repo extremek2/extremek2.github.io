@@ -13,6 +13,9 @@
 - Database: Oracle, MySQL, MongoDB
 - Tools: Git
 
+## Projects
+
+
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=extremek2&show_icons=true)
 
