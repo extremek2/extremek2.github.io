@@ -14,10 +14,8 @@
 - Tools: Git
 
 ## 📊 GitHub Stats
-![GitHub stats](이미지주소)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=extremek2&show_icons=true)
 
 ## 📫 How to reach me
 - Email: extremek@naver.com
 
-
-![extremek2's github stats](https://github-readme-stats.vercel.app/api?username=extremek2&show_icons=true)
